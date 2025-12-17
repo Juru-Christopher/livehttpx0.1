@@ -1,18 +1,21 @@
 livehttpx 0.1.0
-a very fast live URL testing tool in Python
+
+  a very fast live URL testing tool in Python
 
 Overview
-livehttpx is a high-performance, lightweight, and reliable live URL testing tool designed entirely in Python. It allows users to quickly and efficiently verify the status and responsiveness of multiple URLs.
-Whether you're a security researcher, a webmaster, or an enthusiast, livehttpx is here to simplify testing for live URLs in bulk.
+  livehttpx is a high-performance, lightweight, and reliable live URL testing tool designed entirely in Python. It allows users to quickly and efficiently verify the status and responsiveness of multiple URLs.
+  Whether you're a security researcher, a webmaster, or an enthusiast, livehttpx is here to simplify testing for live URLs in bulk.
 
 Features
+
   🚀 Fast and Reliable: Parses and checks thousands of URLs efficiently.
   🌐 Real-Time Insights: Provides HTTP status codes and detailed live URL responses.
   🔧 Python-Powered: Built entirely in Python for easy customization.
   🔒 Secure Processing: Ensures secure and error-tolerant URL validation.
 
 Installation
-To use this tool, ensure you have Python (version 3.7+) installed on your system.
+
+  To use this tool, ensure you have Python (version 3.7+) installed on your system.
 
 # Clone the repository
 git clone https://github.com/Juru-Christopher/livehttpx0.1.0.git
